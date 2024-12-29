@@ -74,9 +74,9 @@ supposant que le "macro planning" signifie "plan d'une longueur au dela de une s
 
 - courage
 - tenacité
-- rester éveiller.
+- rester éveillé.
 - apprécier s'assoir longtemps devant un écran
 - accepter. Ne pas se battre pour obtenir Visual Studio Code. Accepter Visual Studio et companie. Une bataille perdue mais ne pas lacher la guerre.
 - C#
-- QI > 110
+- QI > 115
 - savoir apprendre. Aussi expliquer, parler aux gens.
