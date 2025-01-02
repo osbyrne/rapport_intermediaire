@@ -1,26 +1,23 @@
-rapport intermediaire 2024 -> 2025
+Rapport Intermediaire initié le 2024-12-18 par Oscar Byrne
 
-initié le 2024-12-18
-
-
-
-notes de production : voir rapport Izia pour inspiration. Voir notes Logseq et archives Obsidian.
 
 # L'entreprise
 
-CACIB : Credit Agricole Corporate Investment Bank
+Je travaille à "Credit Agricole - Corporate Investment Bank", "Crédit agricole CIB" ou bien "CACIB". A sa création, l'entreprise s'appelait Calyon : contraction de "Crédit agricole" et "Crédit lyonnais" [[1]](https://fr.wikipedia.org/wiki/Cr%C3%A9dit_agricole_Corporate_and_Investment_Bank). CACIB 
+
+CACIB est implantée en Allemagne, Autriche, Belgique, Espagne, Finlande, France, Grèce, Italie, Luxembourg, Norvège, Pays-Bas, Portugal, Russie, Royaume-Uni, Suède, Suisse, Émirats arabes unis, Qatar, Arabie saoudite, Argentine, Brésil, Canada, États-Unis, Mexique, Chili, Colombie, Australie, Chine, Corée du Sud, Hong-Kong, Inde, Indonésie, Japon, Singapour et Taïwan.
 
 # Le contexte metier
 
-dev C#
+Je suis dévelopeur dans l'équipe dite "Transverse". Dans cette équipe, chaque dev peut avoir une mission différente. En général, notre travail est relié à Orchestrade. Orchestrade est une application vendue par [orchestrade.com](https://www.orchestrade.com/) sur laquelle les traders peuvent effectuer divers contracts. 
 
 # L'organigramme
 
-à voir sur insidelive, ou sur Microsoft Teams™ je crois
+Selon Microsoft Teams, je travaille sous Mickael Voyes, qui travaille sous Michel Quinn, qui travaille sous Marcel Phan, qui travaille sous Ludovic Mathe, qui travaille sous Antoine Sirgi, qui travaille sous Jean-Francois Deroche, qui travaille sous Xavier Musca, qui est président de CACIB.
 
 # Le besoin
 
-supposant qu'on parle du besoin pour moi; du besoin d'un tel alternant : dev C# sur des programmes
+Le logiciel Orchestrade est gigantesque. Les besoins des clients sont divers et changeants. Le besoin de dévelopeurs est constant, 
 
 # La mission
 
@@ -28,55 +25,28 @@ dev C# sur des programmes
 
 # les tâches
 
-- setup Windows 10
-- setup Visual Studio 2022
-- setup ReSharper
-- setup Gitlab access
-- setup azure devops access
-- get your repo on local
-- write code !
-- compile and test program !
-- write unit tests
-- test the tests
-- run pipeline
-- argoCD
-- Jfrog
-- azure devops pipelines
-- deploy to dev0, dev8 or dev9
-- deploy to preprod ?
-- test on dev_plike ?
-- push to main/master
-- deploy to prod
+Le dévelopeur doit avant toute chose appréhender son nouvel environnement. Acceder à "Windows 10 corporate edition", installer Visual Studio 2022, ReSharper et LINQPad7. Le dévelopeur doit également obtenir ses accès à Gitlab, Azure Devops et Octopus. Il doit obtenir d'un collègue les adresses et mot de passe des servers de test. 
+
+Enfin, le dévelopeur peut écrire du code. Le dévelopeur n'oublie pas d'écrire un test unitaire par changement dans le dépot de code. Il n'oublie pas de faire tourner les pipelines pour tester son code. Le dévelopeur peut enfin passer par ArgoCD ou bien Jfrog afin de déployer ses changements.
+
+Pour ma part, j'ai changé le type d'un mot de passe : le type précédant étant peu sécurisé, il était préférable de changer. J'ai effectué plusieurs déploiments et depuis peu je mène l'enquête sur une erreur de d'affichage d'attribut d'un contrat sur l'application Orchestrade. 
  
 
 # macro planning
 
-supposant que le "macro planning" signifie "plan d'une longueur au dela de une semaine", eh bien je n'ai aucun tel plan à l'exception des congés. Et parfois même pas.
+Nous avons une réunion matinale journalière, au cours de laquelle nous nous rappelons ce que nous avons fait précédemment et ce que nous prévoyons de faire ensuite.
 
 # choix de theme de mémoire
 
-- relation avec la thèse de Terry Rocves https://theses.fr/2016CNAM1112 ?
-- intérêt sur les communications : Conway's Law
-- intérêt à propos de la fossilisation "2004 infrastructure" as I like to say, 50 dev servers, no Docker containers, long CI/CD, windows 10, windows server, dotnet@4.8
-
-
+"La loi de Conway : théorie et pratique à CACIB". J'aimerais étudier la relation entre l'organisation au sein de CACIB et la forme des programmes écrits.
 
 # Annexe : auto évaluation
 
-- je suis peu réactif car fatigué/mind fog
-- j'apprends lentement
-- je note tout mais pas encore super bien, et je query pas assez mes notes
-- je ne connais pas assez bien mes outils : Jfrog, ArgoCD, azure devops, gitlab, Visual Studio, parfois git, et C#
-- je suis drôle et de bon humeur pour l'équipe donc ils sont content de collab avec oim je crois
-- toujours curieux sur tout ce qui touche un ordinateur, ou autre chose. Intérêt dans les problématiques. On me demande souvent "est ce que ce sujet fait partie de ta mission ?" quand je mentionne que ca pourrait être amélioré. Qu'est ce que sais, c'est pas partie de ma mission
+- Le rythme diffère conséquament de celui de l'école, et j'ai pris un certain temps à m'y adapter.
+- J'apprends trop lentement à mon gout, notamment face au nombre d'outils différents à maitriser.  
+- Je note tout dans un document.txt, ce qui m'aide énormément. Mon document est presque un substitut à ma mémoire. 
+- Intégration correcte avec l'équipe. J'ai pu me familiariser avec les coutumes locales.
 
 # Annexe : compétences requises
 
-- courage
-- tenacité
-- rester éveillé.
-- apprécier s'assoir longtemps devant un écran
-- accepter. Ne pas se battre pour obtenir Visual Studio Code. Accepter Visual Studio et companie. Une bataille perdue mais ne pas lacher la guerre.
-- C#
-- QI > 115
-- savoir apprendre. Aussi expliquer, parler aux gens.
+Les compétences requises afin d'effectuer mon travail sont d'abord la curiosité et la persévérence : explorer toutes les solutions sans s'arrêter. Je ne sais que corriger un bogue de cette manière. Il faut savoir poser un maximum de questions afin d'acqérir tout le savoir le plus vite possible.
