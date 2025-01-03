@@ -1,4 +1,4 @@
-_Rapport Intermediaire initié le 2024-12-18 par Oscar Byrne_
+_Rapport Intermediaire initié le 2024-12-18 par Oscar Byrne sur [github](https://github.com/osbyrne/rapport_intermediaire) et converti par [md-to-pdf](https://md-to-pdf.fly.dev/)_
 
 
 # L'entreprise
