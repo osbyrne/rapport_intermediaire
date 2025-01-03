@@ -1,4 +1,4 @@
-Rapport Intermediaire initié le 2024-12-18 par Oscar Byrne
+_Rapport Intermediaire initié le 2024-12-18 par Oscar Byrne_
 
 
 # L'entreprise
